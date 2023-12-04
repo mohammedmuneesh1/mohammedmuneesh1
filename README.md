@@ -2,33 +2,30 @@
 
 <h1 align="center">Hi 👋, I'm Mohammed Muneesh EK</h1>
 <h3 align="center">A passionate MERN Stack Developer from India...</h3>
+<br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvysh&label=Profile%20views&color=0e75b6&style=flat" alt="iamvysh" /> </p>
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=mohammedmuneesh1&label=Profile%20views&color=0e75b6&style=flat"  alt="mohammedmuneesh1" />
+</p>
 
 - 🔭 I’m currently working on **BookshelfAPI**
 
 - 🌱 I’m currently learning **Tailwind Css , Data Structure**
 
-- 💬 Ask me about **Html,Css,Javascript,React,Node,Express,MongoDB,Bootstrap,Tailwind,**
+- 💬 Ask me about **Javascript, React, Node, Express, MongoDB, Tailwind**
   
 - 👯 I’m looking to collaborate on **open sources**
    
--  💬⚡ Fun fact **The most widely used programming language in the world is JavaScript.**
+- 🎉 Fun fact **Real programmers count from 0**
 
-- ⚡ what i have to say is.... **Programming, as a fresher, means fluently speaking the language of machines.**
+- ⚡ what i have to say is **Strive for progress, not perfection**
 
 - 📫 How to reach me **mohammedmuneeshek@gmail.com**
 </p>
-<p align="left">     
-  <img
-    src="https://komarev.com/ghpvc/?username=mohammedmuneesh1&label=Profile%20views&color=0e75b6&style=flat"
-    alt="mohammedmuneesh1"
-  />
-</p>
 
 
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a
