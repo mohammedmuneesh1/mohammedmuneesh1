@@ -180,9 +180,9 @@
 <br><br>
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmuneesh1&show_icons=true&locale=en&layout=compact&theme=dark" height="190"  alt="mohammedmuneesh1"/> &nbsp; &nbsp;
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmuneesh1&show_icons=true&locale=en&layout=compact&theme=dark" height="160"  alt="mohammedmuneesh1"/> &nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mohammedmuneesh1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"
+    src="https://github-readme-stats.vercel.app/api?username=mohammedmuneesh1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"
     alt="mohammedmuneesh1"
   />
   
