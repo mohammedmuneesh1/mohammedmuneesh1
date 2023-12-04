@@ -27,22 +27,27 @@
 
 <br>
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<div align="center">
   <a
     href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-muneesh-e-k-942671274/"
     target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/mohammed-muneesh-e-k-942671274/"
-      height="30"
-      width="40"
-  /></a>
-
-</p>
+    >  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="mailto:mohammedmuneeshek@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://edabit.com/user/4P4zpTkvoPvKQfH9q">
+ <img src="https://img.shields.io/static/v1?message=Edabit&logo=edabit&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Edabit logo" />
+  </a>
+  <a href="https://leetcode.com/mohammedmuneesh1/">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=F89F1B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
+  </a>
+  
+</div>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<br>
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -177,7 +182,7 @@
     <img width ="12" />
  
 </p>
-<br><br>
+<br><br><br>
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmuneesh1&show_icons=true&locale=en&layout=compact&theme=dark" height="160"  alt="mohammedmuneesh1"/> &nbsp;
