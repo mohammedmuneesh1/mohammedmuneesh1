@@ -177,27 +177,31 @@
     <img width ="12" />
  
 </p>
-
-<p>
+<br><br>
+<div align="center">
   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmuneesh1&show_icons=true&locale=en&layout=compact"
-    alt="mohammedmuneesh1"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=mohammedmuneesh1&show_icons=true&locale=en"
-    alt="mohammedmuneesh1"
-  />
-</p>
-
-<p>
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmuneesh1&show_icons=true&locale=en&layout=compact&theme=dark" height="190"  alt="mohammedmuneesh1"/> &nbsp; &nbsp;
   <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedmuneesh1&"
+    src="https://github-readme-stats.vercel.app/api?username=mohammedmuneesh1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"
     alt="mohammedmuneesh1"
   />
+  
+</div>
+<br>
+
+
+
+
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedmuneesh1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph" alt="mohammedmuneesh1"  />
+  </div>
+<br><br><br><br>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+<br><br>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
