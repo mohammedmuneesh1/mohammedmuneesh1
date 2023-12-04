@@ -16,7 +16,7 @@
    
 -  💬⚡ Fun fact **The most widely used programming language in the world is JavaScript.**
 
-- ⚡ what i have to say is.... **Programming is a language; as a fresher, you're learning to speak the language of machines fluently.**
+- ⚡ what i have to say is.... **Programming, as a fresher, means fluently speaking the language of machines.**
 
 - 📫 How to reach me **mohammedmuneeshek@gmail.com**
 </p>
