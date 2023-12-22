@@ -103,9 +103,7 @@
       height="40"
     />
   </a>
-    <img width ="12" />
- 
-    <img width ="12" />
+   
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
