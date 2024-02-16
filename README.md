@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Association Management System     [Live Project]**
 
-- 🌱 I’m currently learning **Tailwind Css,Next js, Data Structure**
+- 🌱 I’m currently learning **Tailwind Css,Next js**
 
 - 💬 Ask me about **Javascript, React, Node, Express, MongoDB, Tailwind**
   
