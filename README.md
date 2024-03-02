@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Javascript, React, Node, Express, MongoDB, Tailwind**
   
-- Familiar with **Typescript, Nextjs**
+- Familiar with **C, Typescript, Nextjs**
 
 - 👯 I’m looking to collaborate on **open sources**
    
