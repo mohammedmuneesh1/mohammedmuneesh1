@@ -9,6 +9,7 @@
 </p>
 
 - ⚠️ **Currently seeking employment opportunities in the tech industry.**
+- 🏫 **Learning Next.js at the moment.**
 - ⛏️ **I have 10 months of professional experience, including 4 months on a contract basis and 6 months as an intern**🔨
 - 🔭 I’m currently working on **Association Management System     [Live Project]**
 
