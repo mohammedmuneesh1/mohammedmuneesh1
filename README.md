@@ -13,7 +13,7 @@
 - ⛏️ **I have 10 months of professional experience, including 4 months on a contract basis and 6 months as an intern**🔨
 - 🔭 I’m currently working on **Association Management System     [Live Project]**
 
-- 🌱 I’m currently learning **Tailwind Css,Next js**
+- 🌱 I’m currently learning **Next js, SQL**
 
 - 💬 Ask me about **Javascript, React, Node, Express, MongoDB, Tailwind**
   
@@ -23,7 +23,7 @@
    
 - 🎉 Fun fact **Real programmers count from 0**
 
-- ⚡ what i have to say is **Strive for progress, not perfection**
+- ⚡ what i have to say is **Strive for progress, not perfection.**
 
 - 📫 How to reach me **mohammedmuneeshek@gmail.com**
 </p>
