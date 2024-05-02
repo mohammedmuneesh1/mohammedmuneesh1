@@ -35,15 +35,15 @@
 <div align="center">
   <a
     href="https://www.linkedin.com/in/mohammed-muneesh-ek/"
-    target="blank"
+    target="_blank"
     >  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="mailto:mohammedmuneeshek@gmail.com">
+  <a href="mailto:mohammedmuneeshek@gmail.com"  target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://edabit.com/user/4P4zpTkvoPvKQfH9q">
+  <a href="https://edabit.com/user/4P4zpTkvoPvKQfH9q"  target="_blank">
  <img src="https://img.shields.io/static/v1?message=Edabit&logo=edabit&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Edabit logo" />
   </a>
-  <a href="https://leetcode.com/mohammedmuneesh1/">
+  <a href="https://leetcode.com/mohammedmuneesh1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=F89F1B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
   </a>
   
@@ -177,10 +177,6 @@
   
 </div>
 <br>
-
-
-
-
   <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedmuneesh1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph" alt="mohammedmuneesh1"  />
   </div>
